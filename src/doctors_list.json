@@ -1,0 +1,220 @@
+{
+    "doctors": [
+      {
+        "name": "Dr. John Smith",
+        "specialty": "Cardiology",
+        "location": "New York",
+        "reviewScore": 4.5
+      },
+      {
+        "name": "Dr. Jane Doe",
+        "specialty": "Pediatrics",
+        "location": "Los Angeles",
+        "reviewScore": 4.8
+      },
+      {
+        "name": "Dr. Michael Johnson",
+        "specialty": "Dermatology",
+        "location": "Chicago",
+        "reviewScore": 4.2
+      },
+      {
+        "name": "Dr. Sarah Lee",
+        "specialty": "Gynecology",
+        "location": "San Francisco",
+        "reviewScore": 4.7
+      },
+      {
+        "name": "Dr. David Kim",
+        "specialty": "Oncology",
+        "location": "Houston",
+        "reviewScore": 4.6
+      },
+      {
+        "name": "Dr. Rebecca Garcia",
+        "specialty": "Endocrinology",
+        "location": "New York",
+        "reviewScore": 4.4
+      },
+      {
+        "name": "Dr. Mark Chen",
+        "specialty": "Neurology",
+        "location": "Los Angeles",
+        "reviewScore": 4.9
+      },
+      {
+        "name": "Dr. Lisa Rodriguez",
+        "specialty": "Psychiatry",
+        "location": "Chicago",
+        "reviewScore": 4.3
+      },
+      {
+        "name": "Dr. Daniel Park",
+        "specialty": "Ophthalmology",
+        "location": "San Francisco",
+        "reviewScore": 4.7
+      },
+      {
+        "name": "Dr. Rachel Kim",
+        "specialty": "Obstetrics",
+        "location": "Houston",
+        "reviewScore": 4.5
+      },
+      {
+        "name": "Dr. James Lee",
+        "specialty": "Cardiology",
+        "location": "New York",
+        "reviewScore": 4.6
+      },
+      {
+        "name": "Dr. Laura Hernandez",
+        "specialty": "Dermatology",
+        "location": "Los Angeles",
+        "reviewScore": 4.7
+      },
+      {
+        "name": "Dr. Ryan Nguyen",
+        "specialty": "Gastroenterology",
+        "location": "Chicago",
+        "reviewScore": 4.1
+      },
+      {
+        "name": "Dr. Emily Wang",
+        "specialty": "Rheumatology",
+        "location": "San Francisco",
+        "reviewScore": 4.9
+      },
+      {
+        "name": "Dr. Tyler Brown",
+        "specialty": "Orthopedics",
+        "location": "Houston",
+        "reviewScore": 4.2
+      },
+      {
+        "name": "Dr. Maria Rodriguez",
+        "specialty": "Pediatrics",
+        "location": "New York",
+        "reviewScore": 4.8
+      },
+      {
+        "name": "Dr. William Chen",
+        "specialty": "Oncology",
+        "location": "Los Angeles",
+        "reviewScore": 4.5
+      },
+      {
+        "name": "Dr. Samantha Kim",
+        "specialty": "Psychiatry",
+        "location": "Chicago",
+        "reviewScore": 4
+      },
+      {
+        "name": "Dr. Lisa Johnson",
+        "specialty": "Cardiology",
+        "location": "Miami",
+        "reviewScore": 4.2
+        },
+        {
+        "name": "Dr. Sarah Lee",
+        "specialty": "Pediatrics",
+        "location": "San Diego",
+        "reviewScore": 4.9
+        },
+        {
+        "name": "Dr. Michael Brown",
+        "specialty": "Dermatology",
+        "location": "Austin",
+        "reviewScore": 4.1
+        },
+        {
+        "name": "Dr. Rachel Smith",
+        "specialty": "Gynecology",
+        "location": "San Francisco",
+        "reviewScore": 4.6
+        },
+        {
+        "name": "Dr. David Kim",
+        "specialty": "Oncology",
+        "location": "Dallas",
+        "reviewScore": 4.8
+        },
+        {
+        "name": "Dr. Rebecca Chen",
+        "specialty": "Endocrinology",
+        "location": "Miami",
+        "reviewScore": 4.3
+        },
+        {
+        "name": "Dr. Mark Nguyen",
+        "specialty": "Neurology",
+        "location": "San Diego",
+        "reviewScore": 4.7
+        },
+        {
+        "name": "Dr. Laura Rodriguez",
+        "specialty": "Psychiatry",
+        "location": "Austin",
+        "reviewScore": 4.4
+        },
+        {
+        "name": "Dr. Daniel Park",
+        "specialty": "Ophthalmology",
+        "location": "San Francisco",
+        "reviewScore": 4.9
+        },
+        {
+        "name": "Dr. Emily Kim",
+        "specialty": "Obstetrics",
+        "location": "Dallas",
+        "reviewScore": 4.5
+        },
+        {
+        "name": "Dr. James Lee",
+        "specialty": "Cardiology",
+        "location": "Miami",
+        "reviewScore": 4.8
+        },
+        {
+        "name": "Dr. Sophia Hernandez",
+        "specialty": "Dermatology",
+        "location": "San Diego",
+        "reviewScore": 4.6
+        },
+        {
+        "name": "Dr. Ryan Patel",
+        "specialty": "Gastroenterology",
+        "location": "Austin",
+        "reviewScore": 4.2
+        },
+        {
+        "name": "Dr. Victoria Wang",
+        "specialty": "Rheumatology",
+        "location": "San Francisco",
+        "reviewScore": 4.9
+        },
+        {
+        "name": "Dr. Tyler Brown",
+        "specialty": "Orthopedics",
+        "location": "Dallas",
+        "reviewScore": 4.1
+        },
+        {
+        "name": "Dr. Maria Gonzalez",
+        "specialty": "Pediatrics",
+        "location": "Miami",
+        "reviewScore": 4.7
+        },
+        {
+        "name": "Dr. William Chen",
+        "specialty": "Oncology",
+        "location": "San Diego",
+        "reviewScore": 4.4
+        },
+        {
+        "name": "Dr. Samantha Kim",
+        "specialty": "Psychiatry",
+        "location": "Austin",
+        "reviewScore": 4.5
+        }]
+}
+    
